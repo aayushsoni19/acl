@@ -7,5 +7,5 @@ This repository contains the website which I developed in order for players to d
 Its a very basic website which contains a download link of game and gives some basic information and preview of the game. The users can also connect with developers through the contact page.
 
 Technologies Used:
-Unreal Engine for game development
+Unreal Engine for game development; 
 ReactJs for website development
